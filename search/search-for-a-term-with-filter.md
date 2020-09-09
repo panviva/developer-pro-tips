@@ -3,7 +3,7 @@
 
 This document shows how to use term query parameter and search Panviva documents for a specified keyword plus a filter. These filters can be any attribute value of the intended search data.
 
-In this example we'll use the attribute `classification`. You can read the schema in Panviva developer portal and select any other attribute that you want to filter with this pattern.
+In this example we'll use the attribute `classification`. You can read [this](search/filterable-fields.md) document and select any other attribute that you want to filter with this pattern.
 
 > Note : These  `+` , `-` , `=` , `&&` , `||` , `>` , `<` , `!` , `(` , `)` , `{` , `}` , `[` , `]` , `^` , `"` , `~` , `*` , `?` , `:` , `\` , `/` special characters are reserved and  must be escaped with `\` when you want to use them withing the syntax.
 
