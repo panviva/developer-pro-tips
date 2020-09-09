@@ -3,7 +3,7 @@
 
 This document shows how to use term query parameter and search Panviva documents which does not have a specific requirement.
 
-In this example we'll use the attribute `updatedDate` range. YYou can read [this](search/filterable-fields.md) document and select any other attribute that you want to filter with this pattern.
+In this example we'll use the attribute `updatedDate` range. YYou can read [this](filterable-fields.md) document and select any other attribute that you want to filter with this pattern.
 
 ## When using a standard Http client.
 
