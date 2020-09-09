@@ -63,8 +63,3 @@ Here are all the fields you can filter these results from.
     - Possible values =  String date in `yyyy-mm-dd` format
     - filter attribute structure = `data.attributes.updatedDate:`
     - example query = `data.attributes.updatedDate:2020-02-18`
-
-- Language
-    - Possible values =  Valid Language-Country code
-    - filter attribute structure = `data.attributes.language:`
-    - example query = `data.attributes.language:en-US`
