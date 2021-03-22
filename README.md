@@ -46,3 +46,11 @@ You can use the techniques documented here with any application which can handle
 ||| Filter with conditional operators | [link](search/filter-with-conditional-operators.md) |
 ||| Filer with regular expressions | [link](search/filer-with-regular-expressions.md) |
 ||| Negative search | [link](search/negative-search.md) |
+|b.|Search Artefacts API| Search for a term | [link](search/search-for-a-term.md) |
+||| Search for term with a filter | [link](search/search-for-a-term-with-filter.md) |
+||| Filter date ranges | [link](search/filter-date-ranges.md) |
+||| Filter if property exists | [link](search/filter-if-property-exists.md) |
+||| Filter if property is missing | [link](search/filter-if-property-is-missing.md) |
+||| Filter with conditional operators | [link](search/filter-with-conditional-operators.md) |
+||| Filer with regular expressions | [link](search/filer-with-regular-expressions.md) |
+||| Negative search | [link](search/negative-search.md) |
